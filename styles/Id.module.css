@@ -1,0 +1,11 @@
+.box {
+  width: 100%;
+ display: flex;
+ justify-content: center;
+ text-align: center;
+}
+
+.content {
+    margin-top: 50px;
+    max-width: 600px;
+}
